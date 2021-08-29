@@ -15,11 +15,13 @@
         "email": "name@modobio.com",
         "password": 123
     },
+    
     "reporter": "mochawesome",
     "reporterOptions": {
       "reportDir": "cypress/results",
       "overwrite": false,
       "html": false,
       "json": true
-    }
+    },
+    "projectId": "i8wdn9"
 }
