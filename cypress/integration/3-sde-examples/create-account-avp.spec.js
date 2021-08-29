@@ -1,6 +1,5 @@
 import Login from '../../functions-general/Login';
 import Logout from '../../functions-general/Logout';
-import SelectClient from '../../functions-general/SelectClient';
 import GenerateRandomString from '../../functions-helpers/GenerateRandomString';
 
 // For this presentation only
