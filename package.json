@@ -1,0 +1,19 @@
+{
+  "name": "cypress-presentation",
+  "version": "1.0.0",
+  "description": "Cypress with examples for SDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Kubos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "baseUrl": "https://www.github.com",
+    "viewportWidth": 1920,
+    "viewportHeight:": 1080,
+    "defaultCommandTimeout": 25000,
+    "responseTimeout": 35000,
+    "requestTimeout": 25000,
+    "video": false,
+    "screenshotOnRunFailure": false,
+    "retries": {
+        "runMode": 2,
+        "openMode": 1
+    },
+    "env": {
+        "email": "name@modobio.com",
+        "password": 123
+    },
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "cypress/results",
+      "overwrite": true,
+      "html": true,
+      "json": false
+    }
+}
