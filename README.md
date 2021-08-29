@@ -1,13 +1,13 @@
 # Useful stuff
 
 ## Links
-**Website:** https://www.cypress.io/
-**Documentation:** https://docs.cypress.io/guides/overview/why-cypress
-**Dashboard:** https://dashboard.cypress.io/
+- **Website:** https://www.cypress.io/
+- **Documentation:** https://docs.cypress.io/guides/overview/why-cypress
+- **Dashboard:** https://dashboard.cypress.io/
 
 ## npm packages
-**Cypress:** `npm install cypress`
-**Mochawesome reporter:** `npm install --save-dev mochawesome mochawesome-merge mochawesome-report-generator`
+- **Cypress:** `npm install cypress`
+- **Mochawesome reporter:** `npm install --save-dev mochawesome mochawesome-merge mochawesome-report-generator`
 
 ## Custom scripts
 **Reporter script sequence**
